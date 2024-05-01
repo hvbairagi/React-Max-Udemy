@@ -3,7 +3,7 @@
   transition: 0.3s;
 }
 
-.smalltrash {
+.smallTrash {
   display: none;
 }
 
@@ -11,8 +11,8 @@
   box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.082);
 }
 
-.iteamsdetails {
-  max-width: 800px;
+.items_details {
+  max-width: 1000px;
   margin: auto;
   display: flex;
   justify-content: space-between;
@@ -44,10 +44,10 @@
 }
 
 @media (max-width: 450px) {
-  .smalltrash {
+  .smallTrash {
     display: block;
   }
-  .largetrash {
+  .largeTrash {
     display: none;
   }
   .emptycart_img {

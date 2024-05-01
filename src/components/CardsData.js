@@ -7,7 +7,7 @@ const CardsData = [
     address: "North Indian, Biryani, Mughlai",
     delImg:
       "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-    someData: " 1175 + order placed from here recently",
+    review: " 1175 + order placed from here recently",
     price: 350,
     rating: "3.8",
     arrImg:
@@ -22,7 +22,7 @@ const CardsData = [
     address: "Street Food",
     delImg:
       "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-    someData: " 2525 + order placed from here recently",
+    review: " 2525 + order placed from here recently",
     price: 25,
     rating: "3.9",
     arrImg:
@@ -37,7 +37,7 @@ const CardsData = [
     address: "Pizza, Fast Food, Pasta",
     delImg:
       "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-    someData: " 650 + order placed from here recently",
+    review: " 650 + order placed from here recently",
     price: 70,
     rating: "4.2",
     arrImg:
@@ -52,7 +52,7 @@ const CardsData = [
     address: "Momos",
     delImg:
       "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-    someData: " 300 + order placed from here recently",
+    review: " 300 + order placed from here recently",
     price: 70,
     rating: "3.8",
     arrImg:
@@ -67,7 +67,7 @@ const CardsData = [
     address: "North Indian",
     delImg:
       "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-    someData: "1050 + order placed from here recently",
+    review: "1050 + order placed from here recently",
     price: 210,
     rating: "4.0",
     arrImg:
@@ -82,7 +82,7 @@ const CardsData = [
     address: "Wraps FastFood, Chines",
     delImg:
       "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-    someData: " 1100 + order placed from here recently",
+    review: " 1100 + order placed from here recently",
     price: 100,
     rating: "3.8",
     arrImg:
@@ -97,7 +97,7 @@ const CardsData = [
     address: "North Indian, Fast Food",
     delImg:
       "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-    someData: "500 + order placed from here recently",
+    review: "500 + order placed from here recently",
     price: 300,
     rating: "3.8",
     arrImg:
@@ -112,7 +112,7 @@ const CardsData = [
     address: "Tea, Coffee, Shake, Beverages",
     delImg:
       "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-    someData: "500 + order placed from here recently",
+    review: "500 + order placed from here recently",
     price: 100,
     rating: "3.2",
     arrImg:
@@ -127,7 +127,7 @@ const CardsData = [
     address: "Burger, Sandwich, Fast Food",
     delImg:
       "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-    someData: "2525 + order placed from here recently",
+    review: "2525 + order placed from here recently",
     price: 100,
     rating: "3.8",
     arrImg:
