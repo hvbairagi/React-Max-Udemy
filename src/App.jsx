@@ -3,10 +3,11 @@ import Examples from "./components/Examples.jsx";
 import Header from "./components/Header/Header.jsx";
 
 function App() {
+  const a = "filled";
   return (
     <div>
       <Header />
-      <main>
+      <main className={`${a}-button`}>
         <CoreConcepts />
         <Examples />
       </main>
